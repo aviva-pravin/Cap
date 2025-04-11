@@ -41,6 +41,5 @@ apps/storybook/storybook-static
 tauri.windows.conf.json
 .vercel
 
-
 # sst
 .sst
